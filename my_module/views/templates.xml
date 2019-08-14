@@ -15,6 +15,7 @@
                 <script type="text/javascript" src="/my_module/static/src/js/polyfills.bundle.js"></script>
                 <script type="text/javascript" src="/my_module/static/src/js/main.bundle.js"></script>
             </t>
+            <div>TESSSSST HERE</div>
         
         </template>
         
