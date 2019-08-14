@@ -11,9 +11,9 @@
         <template id="index" name="Custom Template">
             <t t-call="website.layout">
                 <app-root></app-root>
-                <script type="text/javascript" src="/my_module/static/src/js/inline.bundle.js"><script/>
-                <script type="text/javascript" src="/my_module/static/src/js/main.bundle.js"><script/>
-                <script type="text/javascript" src="/my_module/static/src/js/polyfills.bundle.js"><script/>
+                <script type="text/javascript" src="/my_module/static/src/js/inline.bundle.js"></script>
+                <script type="text/javascript" src="/my_module/static/src/js/main.bundle.js"></script>
+                <script type="text/javascript" src="/my_module/static/src/js/polyfills.bundle.js"></script>
             </t>
         
         </template>
